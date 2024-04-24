@@ -2994,7 +2994,7 @@ Localization and mapping are critical tasks for various applications such as aut
 1. [ ] [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 2. [ ] [Making Gaussian Splats smaller](https://aras-p.info/blog/2023/09/13/Making-Gaussian-Splats-smaller/)
 3. [ ] [Making Gaussian Splats more smaller](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/)
-4. [ ] [Introduction to 3D Gaussian Splatting](https://huggingface.co/blog/gaussian-splatting)
+4. [x] [Introduction to 3D Gaussian Splatting](https://huggingface.co/blog/gaussian-splatting)
 5. [ ] [Very good (technical) intro to 3D Gaussian Splatting](https://medium.com/@AriaLeeNotAriel/numbynum-3d-gaussian-splatting-for-real-time-radiance-field-rendering-kerbl-et-al-60c0b25e5544)
 6. [ ] [Write up on some mathematical details of the 3DGS implementation](https://github.com/kwea123/gaussian_splatting_notes)
 7. [ ] [Discussion about gs universal format](https://github.com/mkkellogg/GaussianSplats3D/issues/47#issuecomment-1801360116)
